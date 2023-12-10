@@ -1,9 +1,0 @@
-{
-    "URL": "https://raw.githubusercontent.com/dnssks/test/main/exploit.yaml",
-    "URLs": [
-        {
-            "url": "https://raw.githubusercontent.com/dnssks/test/main/exploit.yaml",
-            "name": "Foo"
-        }
-    ]
-}
